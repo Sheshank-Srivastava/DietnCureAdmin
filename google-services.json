@@ -1,0 +1,107 @@
+{
+  "project_info": {
+    "project_number": "823221666916",
+    "firebase_url": "https://dietncure-b6baf.firebaseio.com",
+    "project_id": "dietncure-b6baf",
+    "storage_bucket": "dietncure-b6baf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:823221666916:android:5769dbeb46a06310",
+        "android_client_info": {
+          "package_name": "com.dietncure.dietncure"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "823221666916-hu3ak49vu0bss9dg5rdds949qrs2t72l.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.dietncure.dietncure",
+            "certificate_hash": "57d77bc9ffb95ce16103b5a8c4ec3da65c6ec038"
+          }
+        },
+        {
+          "client_id": "823221666916-hd0jhm8spk7kveuavvqr24vv5hj6il5m.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.dietncure.dietncure",
+            "certificate_hash": "9b801420af8cbcbc72a335f32a814123ec1c4aec"
+          }
+        },
+        {
+          "client_id": "823221666916-blnm2mu7gm238k36t31e19tt04c9ae5r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBPYdki41y2aUM6Ia8pA1nYihbma_T8yR4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "823221666916-blnm2mu7gm238k36t31e19tt04c9ae5r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:823221666916:android:c285ecc381ea4ea1",
+        "android_client_info": {
+          "package_name": "com.dietncure.dietncureadmin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "823221666916-5g5jn1pvj2icpig2ftnm5qef1pfutqtu.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.dietncure.dietncureadmin",
+            "certificate_hash": "57d77bc9ffb95ce16103b5a8c4ec3da65c6ec038"
+          }
+        },
+        {
+          "client_id": "823221666916-blnm2mu7gm238k36t31e19tt04c9ae5r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBPYdki41y2aUM6Ia8pA1nYihbma_T8yR4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "823221666916-blnm2mu7gm238k36t31e19tt04c9ae5r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
